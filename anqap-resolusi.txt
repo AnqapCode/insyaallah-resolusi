@@ -2,5 +2,8 @@ Anqap resolusi
 - Belajar Javascript
 - Belajar B.Inggris
 - Mengulangi CSS
-- Berperang melawan rasa malas / kesenangan sementara
+  * CSS Layouting
+  * CSS Grid
+  * CSS 3
+- Berperang melawan rasa malas
 - Menikmati kebosanan / proses
