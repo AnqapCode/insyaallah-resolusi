@@ -5,5 +5,7 @@ Anqap resolusi
   * CSS Layouting
   * CSS Grid
   * CSS 3
+- Menghapal surat pendek
+- Jarangin main handphone
 - Berperang melawan rasa malas
 - Menikmati kebosanan / proses
